@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+#div1 {
+    background-color: rgb(8, 209, 199);
+    margin: 0px;
+    color: #333;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+}
+
+h3 {
+    margin: 0;
+}
+
+#div2 {
+    width: 25%;
+    float: left;
+    margin-left: 100px;
+    display: block;
+}
+
+#div3 {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    display: inline;
+}
